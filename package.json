@@ -1,0 +1,14 @@
+{
+  "name": "docker-server",
+  "version": "1.0.0",
+  "description": "Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i --forceExit --verbose"
+  },
+  "author": "Trybe",
+  "devDependencies": {
+    "jest": "26.6.0",
+    "mssql": "8.1.2"
+  }
+}
