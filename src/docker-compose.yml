@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  db:
+    container_name: sql_server_db
+    build: ./db
+    ports:
+      - 1433:1433
