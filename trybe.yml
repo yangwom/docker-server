@@ -1,5 +1,0 @@
-ignore_files:
-  - package.json
-  - package-lock.json
-  - .gitignore
-  - ./__tests__
